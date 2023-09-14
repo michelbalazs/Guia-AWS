@@ -23,7 +23,7 @@
 ## 📘 Treinamentos Oficiais
    - [Link Treinamentos AWS](https://aws.amazon.com/pt/training/)
 
-## 🏆 Certificações Oracle Cloud
+## 🏆 Certificações AWS
    - [Link AWS Certification](https://aws.amazon.com/pt/certification/)
 
 ## 📒 Treinamentos Free
