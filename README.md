@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/michelbalazs/Guia-AWS">
-    <img src="./imagens/amazon-aws-logo.png" alt="Guia AWS Web Services" width="385" height="91">
+    <img src="./imagens/amazon-aws-logo-white.png" alt="Guia AWS Web Services" width="405" height="151">
   </a>
 </p>
 
